@@ -555,6 +555,10 @@ p {
     border-radius: 5px;
 }
 
+.subscribe-form input::placeholder {
+    padding-left: 35px;
+}
+
 .subscribe-form button {
     width: 219px;
     text-transform: uppercase;
